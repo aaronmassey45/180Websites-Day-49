@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: lightgrey;
+}
+
+.Job {
+  padding: 10px;
+}
+
+.Job img {
+  height: 50px;
+}
+
+.JobContainer {
+  margin-top: 25px;
+}
+
+.JobStuff {
+  padding: 5px;
+  background-color: white;
+  overflow: auto;
+  border: 2px solid grey;
+}
+
+.navbar {
+  border-radius: 0
+}
